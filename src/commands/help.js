@@ -14,7 +14,7 @@ module.exports = {
 
     const helpEmbed = new EmbedBuilder()
       .setTitle('Help - Available Commands')
-      .setDescription('- By : GlaceYT')
+      .setDescription('- By : felix team')
       .setColor('#0099ff');
 
     commandFiles.forEach(file => {
